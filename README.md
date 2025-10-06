@@ -26,7 +26,7 @@ Sou estudante de **Ciência da Computação na Universidade Federal de Viçosa (
             </ul>
         </li>
         <li>
-            <b>Linguagens:</b> Português (Nativo), <b>Inglês (Proficiência Profissional)</b>
+            <b>Linguagens:</b> Português (Nativo), <b>Inglês (Intermediário)</b>
         </li>
         <li>
             <b>Principais Competências:</b> <b>C++</b>, <b>HTML</b>, <b>PHP</b>
