@@ -26,10 +26,12 @@ jobs:
 
     steps:
       # Gera o arquivo SVG do Pac-Man
+      # Usando a versão estável v1.2.0 e passando o token de autenticação.
       - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v1.2.0
         with:
-          github_user_name: gabrielcreisz
+          github_user_name: gabrielreisz
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Adicionado explicitamente para resolver o erro
 
       # Empurra o SVG gerado para o branch 'output'
       - name: push pacman-contribution-graph.svg to the output branch
