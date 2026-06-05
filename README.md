@@ -22,7 +22,7 @@ Sou estudante de **Ciência de Dados na Universidade Federal de Minas Gerais (UF
             <b>Formação Acadêmica:</b><br>
             &nbsp; &nbsp; <ul>
                 <li><b>Bacharelado em Ciência de Dados</b> - <b>Universidade Federal de Minas Gerais (UFMG)</b> (Em andamento )</li>
-                <li><b>Bacharelado em Ciência da Computação</b> - <b>Universidade Federal de Viçosa (UFV)</b> (2025 - 1 ano cursado da transferência para Ciência de Dados)</li>
+                <li><b>Bacharelado em Ciência da Computação</b> - <b>Universidade Federal de Viçosa (UFV)</b> (2025 - 1 ano cursado antes da transferência para Ciência de Dados)</li>
                 <li><b>Curso Técnico Integrado em Informática</b> - <b>IFMG Sabará</b> (2018-2021)</li>
             </ul>
         </li>
