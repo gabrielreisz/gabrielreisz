@@ -30,7 +30,7 @@ Sou estudante de **Ciência de Dados na Universidade Federal de Minas Gerais (UF
             <b>Linguagens:</b> Português (Nativo), <b>Inglês (Intermediário)</b>
         </li>
         <li>
-            <b>Principais Competências:</b> <b>C++</b>, <b>HTML</b>, <b>PHP</b>
+            <b>Principais Competências:</b> <b>C++</b>, <b>HTML</b>, <b>PHP</b>, <b>PYTHON<b/>
         </li>
     </ul>
 </h2>
